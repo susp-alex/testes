@@ -7,6 +7,7 @@ public class OlaRua {
 		System.out.println("Oi Rua!!");
 		System.out.println("Branch main dev2 aa bb!!");
 		System.out.println("Branch main Alteração 1 dev2!!");
+		System.out.println("Branch main Teste fetch/merge pull dev1!!");
 	}
 
 }
